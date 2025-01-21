@@ -1,4 +1,10 @@
-.products {
+.product-filter {
+  display: flex;
+}
+
+.collection-sort {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
   }
+
+  
