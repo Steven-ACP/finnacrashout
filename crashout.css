@@ -1,10 +1,17 @@
 .product-filter {
   display: flex;
+  
 }
 
 .collection-sort {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    
   }
-
-  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  body {
+    background-image: url("griddyjon.jpg");
+  }
